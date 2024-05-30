@@ -61,6 +61,11 @@ E aqui está uma listinha que poderá te ajudar durante a graduação:
  - [GoRails](https://gorails.com/github-students) - 01 ano grátis.
  - [Alteryx](https://www.alteryx.com/pt-br/sparked/students) - 01 ano grátis.
  - [Qlik](https://www.qlik.com/us/academicprogram) - 01 ano grátis.
+
+
+### Rolê Cultural
+
+ - [OSESP](https://osesp.art.br/osesp/pt) - Assista concertos de graça com o passe universitário.
  
 
 ## Comprovando que você é estudante!
